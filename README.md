@@ -1,2 +1,2 @@
-# Mentalista-imersaodevalura
-Mentalista, descubra o número que eu estou pensando
+# Mentalista Imersão Dev Alura
+Mentalista, descubra o número que eu estou pensando.
